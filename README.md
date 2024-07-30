@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arrrttyyyys
-- 👀 I’m interested in Cybersecurity and Software Devlopment 
+  - 👀 I’m interested in Cybersecurity and Artificial Inteligence 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me, Linkedin - https://www.linkedin.com/in/atharvaverma/
