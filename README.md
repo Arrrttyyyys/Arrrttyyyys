@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atharva 
-  - 👀 I’m interested in Cybersecurity and Artificial Inteligence 
+- 👀 I’m interested in Cybersecurity and Artificial Inteligence 
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me, Linkedin - https://www.linkedin.com/in/atharvaverma/
